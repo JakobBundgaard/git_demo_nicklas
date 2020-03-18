@@ -14,7 +14,5 @@ public class HelloWorld {
         System.out.println(s);
 
         /*I am now working the same place */
-        List<String> someListInputsNStuff = new ArrayList<String>();
-        someListInputsNStuff.add(s);
     }
 }
