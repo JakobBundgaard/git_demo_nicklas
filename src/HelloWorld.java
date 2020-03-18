@@ -10,7 +10,7 @@ public class HelloWorld {
 
         System.out.println(s);
 
-        /* This is changes to the code */
-        System.out.println("I have now changed the code");
+        /*I am now working the same place */
+        System.out.println("Hey man hva så ?");
     }
 }
