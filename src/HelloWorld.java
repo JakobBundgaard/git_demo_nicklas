@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World");
@@ -11,6 +14,7 @@ public class HelloWorld {
         System.out.println(s);
 
         /*I am now working the same place */
-        System.out.println("Hey man hva så ?");
+        List<String> someListInputsNStuff = new ArrayList<String>();
+        someListInputsNStuff.add(s);
     }
 }
