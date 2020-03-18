@@ -3,4 +3,9 @@ public class Parent {
     private String name;
 
     public Parent(){};
+
+    @Override
+    public String toString(){
+        return this.age + " " + this.name;
+    }
 }
