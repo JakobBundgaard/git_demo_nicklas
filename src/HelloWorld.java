@@ -9,5 +9,8 @@ public class HelloWorld {
                     "01100101";
 
         System.out.println(s);
+
+        /* This is changes to the code */
+        System.out.println("I have now changed the code");
     }
 }
